@@ -13,5 +13,6 @@ spec:
     displayName: Prodapt Team3
     email: prodapt@example.com
   parent: prodapt
+  owner: user:kesari
   children: []
  
