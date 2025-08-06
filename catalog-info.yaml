@@ -15,7 +15,7 @@ metadata:
 spec:
   type: Web-App
   lifecycle: development
-  owner: user:Kesari
+  owner: prodapt
   system: Sysco-UI-Portal
   consumesApis:
     - Sysco-Backend-API1
