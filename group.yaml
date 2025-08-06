@@ -12,5 +12,6 @@ spec:
   profile:
     displayName: Prodapt Team3
     email: prodapt@example.com
+  parent: prodapt
   children: []
  
