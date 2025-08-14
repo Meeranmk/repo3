@@ -15,7 +15,7 @@ metadata:
     sonarqube.org/project-key: Meeranmk_styled_portfolio
     
 spec:
-  type: Web-App
+  type: service
   lifecycle: development
   owner: prodapt3
   system: Sysco-UI-Portal
