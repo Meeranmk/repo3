@@ -12,6 +12,8 @@ metadata:
     jenkins.io/github-folder: 'folder-name/project-name' # deprecated
     jenkins.io/job-full-name: 'folder-name/project-name,folder-name/project-name' # use this instead
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/accd1c13-63a5-11f0-b32a-4a480b1bb425-0b668ff98e1318bce14e5de894a27ce7
+    sonarqube.org/project-key: Meeranmk_styled_portfolio
+    
 spec:
   type: Web-App
   lifecycle: development
